@@ -1,0 +1,37 @@
+
+@media (min-width:320px) { /* smartphones, iPhone, portrait 480x320 phones */ 
+.wrap__title {
+	font-size: 14px;
+  color: red;
+}
+}
+@media (min-width:481px) { /* portrait e-readers (Nook/Kindle), smaller tablets @ 600 or @ 640 wide. */ 
+.wrap__title {
+	font-size: 16px;
+  color: green;
+}
+}
+@media (min-width:641px) { /* portrait tablets, portrait iPad, landscape e-readers, landscape 800x480 or 854x480 phones */ 
+.wrap__title {
+	font-size: 18px;
+  color: blue;
+}
+}
+@media (min-width:961px) { /* tablet, landscape iPad, lo-res laptops ands desktops */ 
+.wrap__title {
+	font-size: 20px;
+  color: crimson;
+}
+}
+@media (min-width:1025px) { /* big landscape tablets, laptops, and desktops */ 
+.wrap__title {
+	font-size: 22px;
+  color: orange;
+}
+}
+@media (min-width:1281px) { /* hi-res laptops and desktops */ 
+.wrap__title {
+	font-size: 24px;
+	color: brown;
+}
+}
