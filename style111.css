@@ -32,6 +32,6 @@
 @media (min-width:1281px) { /* hi-res laptops and desktops */ 
 .wrap__title {
 	font-size: 24px;
-	color: brown;
+	color: yellow;
 }
 }
